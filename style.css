@@ -8,6 +8,10 @@ body{
     font-weight: bold;
 }
 
+.hamburger{
+    float: left;
+}
+
 div>.p2{
     display: flex;
     justify-content: center;
@@ -84,5 +88,6 @@ span{
     justify-content: space-evenly ;
     grid-template-columns: 100px 100px 100px;
     grid-template-rows:40px 40px 40px ;
+    font-size: small;
 }
 
