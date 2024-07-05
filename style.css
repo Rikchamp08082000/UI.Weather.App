@@ -86,8 +86,8 @@ span{
 .container3{
     display: grid;
     justify-content: space-evenly ;
-    grid-template-columns: 100px 100px 100px;
+    grid-template-columns: 100px 150px 100px;
     grid-template-rows:40px 40px 40px ;
-    font-size: small;
+    font-size: small ;
 }
 
